@@ -1,0 +1,6 @@
+#ifndef GENERICSCAN_CONFIG_H
+#define GENERICSCAN_CONFIG_H
+
+#include "genericScan/export.h"
+
+#endif /* GENERICSCAN_CONFIG_H */
